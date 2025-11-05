@@ -38,13 +38,7 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
-
----
-
-##  Features
-
-<code>❯ REPLACE-ME</code>
+<code>❯ Projeto de uma API para gerenciamento de veículos</code>
 
 ---
 
